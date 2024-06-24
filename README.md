@@ -1,4 +1,4 @@
-#### Project Title
+### Project Title
 NCCU ICI Chatbot Assistant
 #### Project Description
 The AI Assistant for ICI Students is an advanced tool designed to assist students at the International College of Innovation (ICI) by answering questions about courses. This AI Assistant provides personalized guidance tailored to each student's academic preferences, career aspirations, and specific questions about available courses.
@@ -43,7 +43,7 @@ This data was meticulously organized and preprocessed to ensure suitability for 
 
 The project uses OpenAI's gpt-4 model, LangChain for orchestrating the workflow, Chroma for vector storage, and Gradio for the user interface.
 
-### Results
+#### Results
 
 -Functionality: The chatbot successfully answers most questions about courses, including descriptions, schedules, and professors.
 

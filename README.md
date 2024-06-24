@@ -5,7 +5,9 @@ The AI Assistant for ICI Students is an advanced tool designed to assist student
 
 #### Key Features:
 -Intelligent Responses: The chatbot understands natural language and provides relevant answers from both the PDF and Excel documents.
+
 -Dual Data Sources: Leverages both detailed course descriptions (PDF) and structured data like schedules and professors (Excel).
+
 -Contextual Understanding: Uses the gpt-4 model for advanced language processing and understanding.
 
 #### How It Works:

@@ -41,9 +41,11 @@ Our AI Assistant for ICI students utilizes advanced AI models to provide persona
 1. Data Collection and Preprocessing:
 
 - We collected comprehensive data on available courses, including course titles, descriptions, credits, and schedules.
-This data was meticulously organized and preprocessed to ensure suitability for the AI models.
-
-The project uses OpenAI's gpt-4 model, LangChain for orchestrating the workflow, Chroma for vector storage, and Gradio for the user interface.
+  This data was meticulously organized and preprocessed to ensure suitability for the AI models.
+  
+2. Technology
+  
+-The project uses OpenAI's gpt-4 model, LangChain for orchestrating the workflow, Chroma for vector storage, and Gradio for the user interface.
 
 #### Results
 

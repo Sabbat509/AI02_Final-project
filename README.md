@@ -47,7 +47,9 @@ Technology:
 ### Results
 
 -Functionality: The chatbot successfully answers most questions about courses, including descriptions, schedules, and professors.
+
 -Accuracy: The accuracy is generally good, but there are occasional inconsistencies. For example, the chatbot might miss information about classes on certain days, even though it can accurately identify professors who teach on those days.
+
 -Speed: The response time can sometimes be slow, especially for more complex queries.
 
 #### Conclusions:

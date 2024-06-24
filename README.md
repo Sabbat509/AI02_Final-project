@@ -1,5 +1,5 @@
 #### Project Title
-AI Assistant for ICI Course Inquiries
+NCCU ICI Chatbot Assistant
 #### Project Description
 The AI Assistant for ICI Students is an advanced tool designed to assist students at the International College of Innovation (ICI) by answering questions about courses. This AI Assistant provides personalized guidance tailored to each student's academic preferences, career aspirations, and specific questions about available courses.
 

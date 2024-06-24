@@ -23,7 +23,7 @@ To begin using the AI Assistant for ICI Students:
 - Run the code.
 - Input your questions regarding ICI courses.
 - Submit your input to receive the results.
-- The output will include9(based on the question asked):
+- The output will include (based on the question asked):
 1. Course Lists for Each Year
 2. Course Schedule
 3. Professor Information
@@ -40,20 +40,20 @@ Our AI Assistant for ICI students utilizes advanced AI models to provide persona
 
 1. Data Collection and Preprocessing:
 
-- We collected comprehensive data on available courses, including course titles, descriptions, credits, and schedules.
+- We collected comprehensive data on available courses in fall and spring semesters in the most recent academic years, including course titles, descriptions, credits, and schedules.
   This data was meticulously organized and preprocessed to ensure suitability for the AI models.
   
 2. Technology
   
--The project uses OpenAI's gpt-4 model, LangChain for orchestrating the workflow, Chroma for vector storage, and Gradio for the user interface.
+- The project uses OpenAI's gpt-4 model, LangChain for orchestrating the workflow, Chroma for vector storage, and Gradio for the user interface.
 
 #### Results
 
--Functionality: The chatbot successfully answers most questions about courses, including descriptions, schedules, and professors.
+- Functionality: The chatbot successfully answers most questions about courses, including descriptions, schedules, and professors.
 
--Accuracy: The accuracy is generally good, but there are occasional inconsistencies. For example, the chatbot might miss information about classes on certain days, even though it can accurately identify professors who teach on those days.
+- Accuracy: The accuracy is generally good, but there are occasional inconsistencies. For example, the chatbot might miss information about classes on certain days, even though it can accurately identify professors who teach on those days.
 
--Speed: The response time can sometimes be slow, especially for more complex queries.
+- Speed: The response time can sometimes be slow, especially for more complex queries.
 
 #### Conclusions:
 
@@ -78,7 +78,7 @@ Overall, the AI Assistant provides a robust foundation for personalized academic
 #### Contributors
 1. Natthanicha 111ZU1027
 2. Neri 111ZU1035
-3. Chanyada 111ZU1028
+3. Chanyada 111ZU1038
 4. Panisara 111ZU1053
 
 ### Acknowledgments
@@ -99,6 +99,9 @@ Thank you all for your contributions and support, without which this project wou
 ### References
 - Course information
 https://ici.nccu.edu.tw/course/
+- LLM Code
+https://levelup.gitconnected.com/unlocking-llms-potential-with-rag-a-complete-guide-from-basics-to-advanced-techniques-b4557f268134
+  
 
 
 
